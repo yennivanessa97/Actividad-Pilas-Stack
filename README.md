@@ -39,17 +39,18 @@ Operaciones implementadas:
 
 1. Ejecución inicial mostrando la pila vacía.  
    ![PilaVacia.png](img/PilaVacia.png))
-
-2. Inserción de elementos con `push()`.  
+2. Mostrar si la pila está vacía con `isEmpty()`
+![IsEmpty.png](img/IsEmpty.png)
+3. Inserción de elementos con `push()`.  
    ![Captura 2](imagenes/captura2.png)
 
-3. Eliminación de un elemento con `pop()`.  
+4. Eliminación de un elemento con `pop()`.  
    ![Captura 3](imagenes/captura3.png)
 
-4. Uso de `peek()` para ver el último elemento.  
+5. Uso de `peek()` para ver el último elemento.  
    ![Captura 4](imagenes/captura4.png)
 
-5. Resultado de la búsqueda con `search()`.  
+6. Resultado de la búsqueda con `search()`.  
    ![Captura 5](imagenes/captura5.png)
 
 ---

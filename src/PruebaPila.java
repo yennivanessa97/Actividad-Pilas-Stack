@@ -9,6 +9,11 @@ public class PruebaPila {
 
         // Mostrar la pila vacía
         System.out.println("pila vacía" + pila);
+
+        /* Uso de la función isEmpty() para verificar si la pila está vacía.
+        Si la pila está vacía la función retorna true, de lo contrario retorna false
+         */
+        System.out.println("Está vacía : " + pila.isEmpty());
     }
 
 
