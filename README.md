@@ -52,7 +52,7 @@ Operaciones implementadas:
 
 ---
 
-### 2. EditorTexto.java
+### 2. Menu.java
 Este archivo contiene el simulador de un editor de texto en consola que implementa las funciones de **Undo** y **Redo** utilizando dos pilas:
 
 - **Pila principal (Undo):** almacena las acciones realizadas.
