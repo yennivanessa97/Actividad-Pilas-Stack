@@ -38,7 +38,7 @@ Operaciones implementadas:
 **Ejecución paso a paso:**
 
 1. Ejecución inicial mostrando la pila vacía.  
-   ![Captura 1](imagenes/captura1.png)
+   ![PilaVacia.png](img/PilaVacia.png))
 
 2. Inserción de elementos con `push()`.  
    ![Captura 2](imagenes/captura2.png)
