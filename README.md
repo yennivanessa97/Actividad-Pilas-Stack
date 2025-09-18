@@ -42,7 +42,7 @@ Operaciones implementadas:
 2. Mostrar si la pila está vacía con `isEmpty()`
 ![IsEmpty.png](img/IsEmpty.png)
 3. Inserción de elementos con `push()`.  
-   ![Captura 2](imagenes/captura2.png)
+  ![push.png](img/push.png)
 
 4. Eliminación de un elemento con `pop()`.  
    ![Captura 3](imagenes/captura3.png)
