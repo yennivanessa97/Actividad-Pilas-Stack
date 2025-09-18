@@ -26,7 +26,13 @@ public class PruebaPila {
 
         // Mostrar la pila con los elementos ingresados
         System.out.println("pila" + pila);
+
+        //Eliminar el último elemento ingresado con el método pop()
+        pila.pop();
+        System.out.println("Contenido después de pop: " + pila);
     }
+
+
 
 
 }
