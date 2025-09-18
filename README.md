@@ -33,7 +33,6 @@ Operaciones implementadas:
 - `pop()` → Eliminar el último elemento agregado.
 - `peek()` → Consultar el último elemento sin eliminarlo.
 - `isEmpty()` → Verificar si la pila está vacía.
-- `search()` → Buscar un elemento en la pila.
 
 **Ejecución paso a paso:**
 
@@ -45,13 +44,11 @@ Operaciones implementadas:
   ![push.png](img/push.png)
 
 4. Eliminación de un elemento con `pop()`.  
-   ![Captura 3](imagenes/captura3.png)
+![pop.png](img/pop.png)
 
 5. Uso de `peek()` para ver el último elemento.  
-   ![Captura 4](imagenes/captura4.png)
+  ![peek.png](img/peek.png)
 
-6. Resultado de la búsqueda con `search()`.  
-   ![Captura 5](imagenes/captura5.png)
 
 ---
 
@@ -71,22 +68,22 @@ Opciones del menú:
 **Ejecución paso a paso:**
 
 1. Ejecución inicial mostrando el menú.  
-   ![Captura 6](imagenes/captura6.png)
+   
 
 2. Inserción de texto en la pila principal.  
-   ![Captura 7](imagenes/captura7.png)
+  
 
 3. Ejemplo de uso de la opción **Deshacer**.  
-   ![Captura 8](imagenes/captura8.png)
+  
 
 4. Ejemplo de uso de la opción **Rehacer**.  
-   ![Captura 9](imagenes/captura9.png)
+   
 
 5. Visualización del texto actual con varias líneas escritas.  
-   ![Captura 10](imagenes/captura10.png)
+  
 
 6. Ejecución completa hasta salir del programa.  
-   ![Captura 11](imagenes/captura11.png)
+ 
 
 ---
 

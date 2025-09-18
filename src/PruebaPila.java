@@ -30,6 +30,13 @@ public class PruebaPila {
         //Eliminar el último elemento ingresado con el método pop()
         pila.pop();
         System.out.println("Contenido después de pop: " + pila);
+
+        // Consultar el último elemento agregado con peek()
+
+        pila.peek();
+        System.out.println("Último elemento agregado: " + pila.peek());
+
+
     }
 
 
